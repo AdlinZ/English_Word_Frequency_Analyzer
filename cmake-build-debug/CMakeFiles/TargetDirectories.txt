@@ -1,0 +1,3 @@
+/Users/adlin/Documents/Code/English Word Frequency Analyzer/cmake-build-debug/CMakeFiles/English_Word_Frequency_Analyzer.dir
+/Users/adlin/Documents/Code/English Word Frequency Analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adlin/Documents/Code/English Word Frequency Analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

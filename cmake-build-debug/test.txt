@@ -1,0 +1,5 @@
+This is a test file. This file contains some sample text that we can use 
+to test the word frequency counting functionality. It also includes 
+words that are repeated multiple times like "this" and "file" to see 
+how the program handles them. Additionally, we can add some other words 
+to make the text more diverse and test the accuracy of the word counting.
